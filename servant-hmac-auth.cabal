@@ -77,7 +77,7 @@ library
                      , servant
                      , servant-client
                      , servant-client-core
-                     , servant-server ^>= 0.17
+                     , servant-server
                      , transformers ^>= 0.5
                      , wai ^>= 3.2.2.1
 
